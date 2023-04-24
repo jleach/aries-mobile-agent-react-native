@@ -434,7 +434,7 @@ const translation = {
     "ProofRequestDetails": "Proof Request Details",
     "ProofRequestAttributeDetails": "Proof Request Attribute Details",
     "ProofDetails": "Proof Details",
-    "Settings": "Settings",
+    "Settings": "Menu",
     "Tours": "App guides",
     "Language": "Language",
     "Contacts": "Contacts",
