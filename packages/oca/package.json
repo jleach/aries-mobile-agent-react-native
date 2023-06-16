@@ -1,6 +1,6 @@
 {
-  "name": "@aries-bifold/oca",
-  "version": "0.0.1-alpha.1436+c015ed6",
+  "name": "@fullboar/aries-oca",
+  "version": "0.0.1",
   "description": "",
   "main": "build/index.js",
   "types": "build/index.d.ts",
