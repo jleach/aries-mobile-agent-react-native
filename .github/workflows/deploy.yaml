@@ -5,6 +5,8 @@ on:
     #   - main
     paths:
       - 'packages/oca/**'
+  workflow_dispatch:
+
 jobs:
   release-canary:
     runs-on: ubuntu-latest
