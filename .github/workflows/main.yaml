@@ -94,7 +94,7 @@ jobs:
         build-tools: [31.0.0]
         sdk-tools: [4333796]
     steps:
-      - uses: actions/checkout@v1
+      - uses: actions/checkout@v2
 
       - name: Setup NodeJS
         uses: ./.github/actions/setup-node
